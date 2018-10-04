@@ -18,7 +18,7 @@ _itlaic_
 ```js
 * one
 * two
-*three
+* three
 ```
 ## Numbered
 1. one
